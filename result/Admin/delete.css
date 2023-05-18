@@ -1,0 +1,30 @@
+body {
+    background-image: url(image/alert_3.png);
+    background-position: 50% 30%;
+    background-size: cover;
+
+}
+
+.wrapper {
+    width: 500px;
+    margin: 0 auto;
+    backdrop-filter: blur(20px);
+    background-color: rgba(9, 9, 9, 0.3);
+    border-radius: 20px;
+    margin-top: 200px;
+}
+
+
+.wrapper h2 {
+    color: white;
+    margin: auto;
+    padding: 10px;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+.wrapper p {
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
